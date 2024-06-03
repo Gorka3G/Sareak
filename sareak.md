@@ -110,3 +110,26 @@ Pertsonala1 aukeratu eta aldaketak onartu.(ikusi 13. irudia)
 <img src="media/01_13pertsonala1Aukeratu.png" alt="Pertsonala1 aukeratu" style="width:30%;"/>
 
 Eta mahaigainak abiarazi
+>Pertsonala1 sarean (Default ez, beste guztietan), ez dugu IPrik jasotzen, beraz guk eskuz jarri beharko ditugu!
+
+192.168.1.1/24 eta 192.168.1.2/24 ip-ak jarriko dizkiegu.
+Eta jada hasi gara "arazotxoaz" konturatzen. Zein izango dute atebidea? Atebiderik gabe ez dute interneterik!
+
+Ez dute Internetik izango.
+Ikusi 14. irudian, nola ping bai baina ez dugun internetik, ez DNSrik...
+
+<img src="media/01_14pingBaiInternetEz.png" 
+alt="Ping Bai, Internet Ez" 
+style="width:100%;"/>
+
+Ezin al dute bi mahaigainek elkar ikusi eta Internet izan?
+
+### 03-. Bi ekipok elkarri ping egin eta Internetera konexioa izan.
+
+Badaude zenbait modu hau lortzeko, errazenetatik, logikoenetara (sareen ikuspuntutik). Goazen aukera pare bat ikustera.
+
+#### 03.01-. Bi sare txartel erabiliz
+
+Dakigunaren, ikusten da Default-ek sare txartelak Internet ematen digula, Pertsonala1ek aldiz, elkar lotzeko (ping) aukera, beraz zergatik ez ditugu 2 txartelak erabiltzen?
+
+Goazen hortara orduan.
