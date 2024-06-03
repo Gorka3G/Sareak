@@ -94,3 +94,19 @@ Dakigunakin, nola lor dezakegu bi ekipoek elkar ping egin dezaten?
 Sare "***orokorrak***" (OpenVSwich sareak, ikusi [Oinarrizko kontzeptuak puntua](#oinarrizko-kontzeptuak)) erabiliko ditugu erabiltzaileen ezberdinen mahaigainen arteko **ping**/konexioak egiteko eta sare ***Pertsonalak*** norberaren sareetan ibiltzeko (besteei trabarik egin gabe, laborategi propio eta isolatuak sortuz).
 
 Kasu honetan, Pertsonala sareak erabiliko ditugu, ondorioz ikasle guztiek batera egin dezakete ariketa hau, -IP berdinak ipinita eta elkar ikusi gabe-, bakoitzaren mahaigainak bere esparruaren barruan geldituko baitira. Eta ikasle desberdinen mahaigainek ez dute elkar joko/ikusiko.
+
+Beraz, esandakoa, bide erraza dugu. Mahaigainak gelditu, zuzendu/editatu, sareak **Pertsonala1**ean jarri **Default**en ordez eta ondoren mahaigainak berriz piztu. 
+
+Lehenik zuzendu/editatu (ikusi 11. irudia)
+
+<img src="media/01_11editatu.png" alt="Zuzendu/Editatu" style="width:50%;"/>
+
+Desaukeratu Default (ikusi 12. irudia)
+
+<img src="media/01_12defaultDesaukeratu.png" alt="Default Desaukeratu" style="width:30%;"/>
+
+Pertsonala1 aukeratu eta aldaketak onartu.(ikusi 13. irudia)
+
+<img src="media/01_13pertsonala1Aukeratu.png" alt="Pertsonala1 aukeratu" style="width:30%;"/>
+
+Eta mahaigainak abiarazi
