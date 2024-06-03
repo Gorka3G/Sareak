@@ -130,6 +130,6 @@ Badaude zenbait modu hau lortzeko, errazenetatik, logikoenetara (sareen ikuspunt
 
 #### 03.01-. Bi sare txartel erabiliz
 
-Dakigunaren, ikusten da Default-ek sare txartelak Internet ematen digula, Pertsonala1ek aldiz, elkar lotzeko (ping) aukera, beraz zergatik ez ditugu 2 txartelak erabiltzen?
+Dakigunarekin, (**Default** sare txartelak Internet ematen digula eta **Pertsonala1**ek aldiz, elkar lotzeko (ping) aukera ematen digula), zergatik ez ditugu 2 txartelak erabiltzen?
 
 Goazen hortara orduan.
