@@ -11,9 +11,10 @@ Isarden 4 sare mota nagusi ditugu:
 
 
 Sareen kudeaketarako administrari gisa Isarden sartzean, Administrazioa --> Domains --> Resources (1. irudia):
-<img src="media/01_01sareakNon.png" alt="Sareak non konfiguratu" style="width:500px;"/>
-Aurreikusi dezakezuen bezala, sare pila bat ditugu Isarden, 100 inguru beraz irudian ikus daitekeen sare identifikadoreekin ez nahasteko dokumentu bat dugu.
-Puntu hontan IKT sailaren bilera bat derrigorra da beharrezkoak izango ditugu sareak identifikatzeko, Aurrerago ere gehitu ahal izango diren arren. 
+<img src="media/01_01sareakNon.png" alt="Sareak non konfiguratu" style="width:75%;"/>
+
+Ikus dezakezuen bezala, sare pila bat ditugu Isarden, 100 inguru, beraz irudian ikus daitekeen sare identifikadoreekin ez nahasteko **dokumentu bat dugu**.
+Puntu hontan IKT sailaren bilera bat derrigorra da beharrezkoak izango ditugun sareak identifikatzeko, aurrerago ere gehitu ahal izango diren arren. 
 Sareak gure ikastetxean: 
 - ikasleko 1-3 (eta 5 irakasleko) sare Pertsonal ditugu
 - gela arruntetan 2 sare, bata gelako fisikoarekin lotuta (*"Infrastructure vlan"* sarea) eta bestea gelako birtuala izango dena.
@@ -26,13 +27,15 @@ Sareak gure ikastetxean:
 
 
 ## Sareak sortzen
-Aurreko 1. irudiko "add new" edo sare bati egokitutako "arkatz" ikonoak klikatuz, hau genuke: (2. irudia)
-<img src="media/01_02sareakKonfiguratzen.png" alt="Sareak konfiguratzen" style="width:500px;"/>
-Hor ikusten denez, sareaen izena ASIR2-T11 da eta gela hortako erronketako lehen taldearen lehen sarea da. OpenVSwitch motakoa da eta gure barne dokumentazioaren arabera 2632 vlan IDa dauka
+Adibide bat erabiliko dugu koka gaitezen: aurreko 1. irudiko "add new" edo sare bati egokitutako "arkatz" ikonoak klikatuz, hau genuke: (2. irudia)
+<img src="media/01_02sareakKonfiguratzen.png" alt="Sareak konfiguratzen" style="width:75%;"/>
+
+Hor ikusten denez, sarearen izena ASIR2-T11 da eta gela hortako erronketako lehen taldearen lehen sarea da. OpenVSwitch motakoa da eta gure barne dokumentazioaren arabera 2632 vlan IDa dauka
 QoS gisa, komenigarria da, beti,mugaren bat jartzen.
 
 Hurrengo pausoa, sarea nork ikus dezakeen erabakia da, horretarako 1. irudiko "jendetsa" ikonoa klikatuz (3. irudia).
-<img src="media/01_03baimenakEsleitzen.png" alt="Baimenak Esleitzen" style="width:500px;"/>
+<img src="media/01_03baimenakEsleitzen.png" alt="Baimenak Esleitzen" style="width:75%;"/>
+
 Hemen, esandako sarea esleitzen dugu, erabiltzaileka, kategoriaka, taldeka... Kasuan, SISA-2 taldeak eta InforIrakas taldeek bakarrik ikusiko dute.
 
 ```
@@ -44,7 +47,8 @@ Orainartekoa Administrariaren lana da. Hemendik aurrera (sareen erabilpena) edoz
 ### 01-. Bi ekipo interneterantz ###
 Edozein bi ekipo sortu eta Internetera konektatzeko modurik errazena **Default** sarea erabiliz egitea da.
 Beraz, frontendeko pantailatik Mahaigain berria klikatu. (4. irudia)
-<img src="media/01_04sortzenBotoia.png" alt="Mahaigaina sortzeko botoia" style="width:200px;"/>
+
+<img src="media/01_04sortzenBotoia.png" alt="Mahaigaina sortzeko botoia" style="width:30%;"/>
 
 Eta ondoren txantiloi bat erabiliz (guk asko ditugu eta nik T3 idatziz bilaketa bat egin dut) bat aukeratu. (5. irudia) 
 <img src="media/01_05mahaigainaSortzen.png" alt="Mahaigaina Sortzen" style="width:100%;"/>
