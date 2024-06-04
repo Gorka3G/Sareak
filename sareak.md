@@ -140,5 +140,5 @@ Dakigunarekin, (**Default** sare txartelak Internet ematen digula eta **Pertsona
 
 Goazen hortara orduan.
 
-===========
+============
 
