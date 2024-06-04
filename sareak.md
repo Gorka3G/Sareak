@@ -64,11 +64,13 @@ Ariketa hontarako, esan bezala, ***Default*** sarea bakarrik erabiliko da.
 
 Ordenaigailu bat badugu. Orain bigarren bat egingo dugu, pausu berdinak jarraituz. Nire kasuan Ubuntu txantiloi bat aukeratu dut Windows-Linux sare ariketa egiten hasteko. Baina bigarren mahaigaina Windows bat aukeratuz ere berdin berdin joango da.
 Sortze fase hontako bukaeran 2 mahaigain izango ditugu. (5.irudia)
+
 <img src="media/01_07biMahaigain.png" alt="Bi mahaigain, Win eta Ubuntu" style="width:500px;"/>
 
 
 
 > Mahaigainak duen "..." (hiru puntu) ikonotxoa klikatu eta ondoren arkatza aukeratuz--> **zuzendu/editatu** --> berriro mahaigaina editatu dezakegu. Fija zaitezte **Sareak** atalean eta nola **Default** dugun aukeratuta. Eta justu azpian? Default sare hortara konektatuko den sare txartelaren **MAC zenbakia**!
+
 > <img src="media/01_08macZenbakia.png" alt="Sare txartelaren MAC zenbakia" style="width:50%;"/>
 
 
