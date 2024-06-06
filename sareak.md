@@ -105,6 +105,7 @@ Beraz, esandakoa, bide erraza dugu. Mahaigainak gelditu, zuzendu/editatu, sareak
 
 Lehenik zuzendu/editatu (ikusi 11. irudia)
 
+
 <img src="media/01_11editatu.png" alt="Zuzendu/Editatu" style="width:50%;"/>
 
 Desaukeratu Default (ikusi 12. irudia)
@@ -140,5 +141,37 @@ Dakigunarekin, (**Default** sare txartelak Internet ematen digula eta **Pertsona
 
 Goazen hortara orduan.
 
-============
+Bi mahaigainak editatuko ditugu 11. irudian ikusi dugun bezala eta unean dugun sareari (14. irudian ikus daitekeen) **Pertsonala1**, **Default** sarea GEHITUKO diogu. Ikusi 15. irudia
 
+<img src="media/01_15pertsonala1Default.png" alt="Pertsonala1 eta Default aukeratu" style="width:30%;"/>
+
+Aldaketak onartu eta abiaraz ditzagun bi mahaigainak.
+
+>Kasuan bi ordenagailuek bina sare txartel izango dituzte, bi IP...
+
+Abiaraztean ([aurreko ariketa](#02--bi-ekipok-elkarri-ping-egin) jarraitzen ari bagara), jada gure bi txartelek IPak izango dituzte:
+
+Lehena, **Pertsonala1**ena da. Eskuz jarri dugu eta editatzerakoan "ikutu" ez badugu, aurretik emandako IPa mantenduko du.
+Bestea berriz, **Default** sarearena da, eta honek DHCP bitartez automatikoki jasotzen duenez, IPa jasota izango dugu jada.
+
+Ikusi 16.irudia (nire Windowseko ekipoa hartu dut), bertan bi IPak ikusten dira:
+- 192.168.1.1 (aurretik eskuz jarria eta bi mahaigainek elkar ping egin dezaten ahalbidetzen duena) eta 
+
+- 192.168.120.172 (DHCP bitartez jaso duena eta Internet emango diguna).
+
+<img src="media/01_06pingBaiInternetBai.png" 
+alt="Ping Bai, Internet Baita" 
+style="width:100%;"/>
+
+Atzekaldean, Interneten nabigatzen gaudela ere ikusten da.
+
+> Oraindik sare gutxi ditugu, baina baliteke gehiago izatean, sare txartelen ordena garbi ez izatea; horretarako, beraiek duten MACean fijatu gaitezke. Batetik sistema eragiletik MACa hartu eta bestetik mahaigaina editatu eta sare txartelaren azpikaldean duenarekin konparatu, zein dan zein, jakiteko eta bakoitza zer saretara konektatua dagoen.
+
+Bukatzeko, ikusten denez, honek funtzionatzen du, baina ez da ohikoa izaten ordenagailuek 2 sare txartel izatea (edo hiru?). Nola egingo genuke 2. sare Pertsonal bat ere bagenu? Edo gehiagorekin?
+
+Informatikan, sareekin jolasteko **ROUTER**rak erabiltzen ditugu!
+
+
+#### 03.02-. Sareak router bidez konektatuz
+
+==========
