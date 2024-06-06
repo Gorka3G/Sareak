@@ -8,4 +8,4 @@ More information about **Isardvdi** in [isardvdi,com](https://isardvdi.com/) and
 # Repo hau manual txiki bat besterik ez da.
 Dokumentu nagusia **sareak.md** da.
 
-Isardvdi birtualizazio plataforma barruan sareen inguruko ariketa batzuk sortzea du helburu.
+Isardvdi birtualizazio plataforma barruan ariketa praktiko batzuk sortzea du helburu.
