@@ -174,4 +174,11 @@ Informatikan, sareekin jolasteko **ROUTER**rak erabiltzen ditugu!
 
 #### 03.02-. Sareak router bidez konektatuz
 
-==========
+Router edo bideratzaileak erabiltzera bagoaz, lehenik beraiek sisteman instalatu beharko ditugu.
+Ez da manual txiki honen helburua instalazioetaz hitzegitea baina hona hemen azalpen txiki batzuk:
+
+-   Lehenik instalatu behar dugunaren ISOa aurkitu beharko dugu. Gurean Mikrotiken webgunera joan gara (https://mikrotik.com/download)[https://mikrotik.com/download]eta bertatik **RouterOSv7**ko **X86** ataleko **CD image** deskargatu dugu. Zuzenean linka nahi duzuenontzat: https://download.mikrotik.com/routeros/7.15.1/mikrotik-7.15.1.iso
+Horrek ISOa jeitsiko du.
+
+Isard-en Menu nagusian, Media, Media Berria klikatuz: (ikusi )
+
