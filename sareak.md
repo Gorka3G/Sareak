@@ -159,7 +159,7 @@ Ikusi 16.irudia (nire Windowseko ekipoa hartu dut), bertan bi IPak ikusten dira:
 
 - 192.168.120.172 (DHCP bitartez jaso duena eta Internet emango diguna).
 
-<img src="media/01_06pingBaiInternetBai.png" 
+<img src="media/01_16pingBaiInternetBai.png" 
 alt="Ping Bai, Internet Baita" 
 style="width:100%;"/>
 
