@@ -177,8 +177,45 @@ Informatikan, sareekin jolasteko **ROUTER**rak erabiltzen ditugu!
 Router edo bideratzaileak erabiltzera bagoaz, lehenik beraiek sisteman instalatu beharko ditugu.
 Ez da manual txiki honen helburua instalazioetaz hitzegitea baina hona hemen azalpen txiki batzuk:
 
--   Lehenik instalatu behar dugunaren ISOa aurkitu beharko dugu. Gurean Mikrotiken webgunera joan gara (https://mikrotik.com/download)[https://mikrotik.com/download]eta bertatik **RouterOSv7**ko **X86** ataleko **CD image** deskargatu dugu. Zuzenean linka nahi duzuenontzat: https://download.mikrotik.com/routeros/7.15.1/mikrotik-7.15.1.iso
+Lehenik instalatu behar dugunaren ISOa aurkitu beharko dugu. Gurean Mikrotiken webgunera joan gara (https://mikrotik.com/download)[https://mikrotik.com/download]eta bertatik **RouterOSv7**ko **X86** ataleko **CD image** deskargatu dugu. Zuzenean linka nahi duzuenontzat: https://download.mikrotik.com/routeros/7.15.1/mikrotik-7.15.1.iso
 Horrek ISOa jeitsiko du.
 
-Isard-en Menu nagusian, Media, Media Berria klikatuz: (ikusi )
+Isard-en Menu nagusian, Media, Media Berria klikatuz: (ikusi 17. irudia)
+<img src="media/01_17isoMikrotikBerriaIgotzen.png" 
+alt="Mikrotik ISOa Isard-era igotzen" 
+style="width:100%;"/>
 
+Kasuan Mikrotik ISOa Mikrotiken webetik zuzenean Isardera pasako dugu. Eta ondoren sortuko den ISOa "Inform. Irakas" eta "IKT Mintegia" taldeek soilik ikusi-erabili ahalko dute.
+
+Ondoren klikatu Mahaigain berria sortu eta mahaigain berri bat sortzeko pantailara joango gara, baina oraingoaz RouterMahaigaina izango da.
+Router bat izatera ez dugu ez vCPU, ez memoria, ez disko askorik beharko. Sortzera goazenez **Boot** CD/DVD aukeratuko dugu eta ondoren sareak.
+Zer saretan izango ditu hankak router honek? Bitan, **Default** sarean interneta hartzeko eta **Pertsonala1**ean ekipoak ikutzeko.(Ikusi18. irudia)
+
+<img src="media/01_18routerraAbiatzera.png" 
+alt="Mikrotik Routerra abiatzera" 
+style="width:100%;"/>
+
+Guztia onartu eta mahaigain-Routerra sortuko da.
+Ondoren sortutako MahaigainRouter hori abiarazi (cd-tik abiatu eta instalazioa has dezan). Instalazioa burutu, Mahaigaina itzali, BERRIZ EDITATU/ZUZENDU eta **Boot** Hard Disk aukeratuko dugu, diskotik piztu dadin eta ez ISOtik, bestela denbora guztian geundekelako instalatzen!
+ 
+ Beraz jada badugu router bat gure sistemarako!
+
+>Gurean RouterMahaingain hau txantiloi bihurtu dugu eta orain guztiok erabil dezakegu router gisa instalatu beharrik gabe.
+
+Jarraitu aurretik (aurreko ariketak egiten ibili zeratenontzat) mahaiganak editatuko ditugu eta berriz jarriko ditugu sare txartel bakarrarekin: Default sarea kendu eta Pertsonala1 bakarrik utzi.
+
+
+Jada baditugu tresna guztiak, goazen bukatzera!
+
+Lehenik Routerra piztu eta ondoren mahaigain biak.
+Routerra konfiguratu beharrean egon gaitezke zenbait kasutan baina oraingoan ez dugu ezer egin behar. Soilik piztu eta bere Pertsonala1 hankatik IPak DHCP bitartez banatzen hasiko da.
+Ondoren PCak piztu eta sarearen konfigurazio ezarpenetan, aurretik jarri diogun IP estatiko kendu eta DHCP bitartez eska dezaiola jarriko diogu.
+Guztia onartu eta jada badugu internet. Routerra bere lana egiten ari da!
+
+Azken irudian, 19.ean nire routerrak 192.168.10.199/24 eta 192.168.10.200 IPak banatu dizkit eta beraien arteko ping-a ikusten da. 
+
+>Mikrotik-ek orokorren konfiguratu ezean, lehen aldian 192.168.88.0/24 IPan banatzen dituzte
+
+<img src="media/01_19ekPingTaInternetSareBakarrakin.png" 
+alt="Ekipoek elkarri ping egiten diete, eta Internet dute sare bakarrarekin" 
+style="width:100%;"/>
