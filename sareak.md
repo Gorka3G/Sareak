@@ -28,6 +28,7 @@ Sareak gure ikastetxean:
 
 ## Sareak sortzen
 Adibide bat erabiliko dugu koka gaitezen: aurreko 1. irudiko "add new" edo sare bati egokitutako "arkatz" ikonoak klikatuz, hau genuke: (2. irudia)
+
 <img src="media/01_02sareakKonfiguratzen.png" alt="Sareak konfiguratzen" style="width:75%;"/>
 
 Hor ikusten denez, sarearen izena ASIR2-T11 da eta gela hortako erronketako lehen taldearen lehen sarea da. OpenVSwitch motakoa da eta gure barne dokumentazioaren arabera 2632 vlan IDa dauka
